@@ -1,0 +1,13 @@
+- Programação Orientada a Objetos (POO - OOP)
+- Porgramação Procedural -- Linguagem que são estruturadas de cima para baixo.
+- Programação Funcional (PF- FP) (Functional Programming Params)
+
+-- Classes
+-- Funções/Objetos
+
+--------------------------------------------------------------------------------
+
+Construtores e this:
+
+CONSTRUTOR: O primeiro método que será executado quando a classe for iniciada.
+THIS: 
